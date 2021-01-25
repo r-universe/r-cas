@@ -3,3 +3,15 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "caracas"]
+	path = caracas
+	url = https://github.com/r-cas/caracas
+	shallow = true
+[submodule "Ryacas"]
+	path = Ryacas
+	url = https://github.com/r-cas/ryacas
+	shallow = true
+[submodule "Ryacas0"]
+	path = Ryacas0
+	url = https://github.com/r-cas/ryacas0
+	shallow = true
