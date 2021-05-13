@@ -1,0 +1,14 @@
+[
+  {
+    "package": "caracas",
+    "oncran": true
+  },
+  {
+    "package": "Ryacas",
+    "oncran": true
+  },
+  {
+    "package": "Ryacas0",
+    "oncran": true
+  }
+]
