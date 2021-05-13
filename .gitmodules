@@ -8,13 +8,16 @@
 	url = https://github.com/r-cas/caracas
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "Ryacas"]
 	path = Ryacas
 	url = https://github.com/r-cas/ryacas
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "Ryacas0"]
 	path = Ryacas0
 	url = https://github.com/r-cas/ryacas0
 	shallow = true
 	registered = true
+	oncran = true
